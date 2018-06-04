@@ -1,0 +1,2 @@
+# rtos_trafficlight_freertos
+Membuat demonstrasi trafficlight secara realtime menggunakan Freertos

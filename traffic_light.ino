@@ -1,6 +1,3 @@
-//pastikan kalian sudah menginstal Arduino IDE dan library FreeRTOS sebelumnya
-//copy code ini ke Arduino IDE yang sudah terinstal
-
 #include <Arduino_FreeRTOS.h>
 #include <LiquidCrystal.h>
 

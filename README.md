@@ -9,5 +9,5 @@ Langkah Kerja :
 
 Klik bit.ly/trafficlights_freertos untuk melihat panduan gambar di Proteus dan embed Arduino nya
 
-/*Author : Muhammad Rizki
+/*Author : Muhammad Rizki.
 Dibuat di : Semarang, 4 Juni 2018*/
